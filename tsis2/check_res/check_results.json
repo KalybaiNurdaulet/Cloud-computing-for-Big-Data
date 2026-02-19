@@ -1,0 +1,102 @@
+[
+    {
+        "document_type": "Loan Agreement",
+        "relevant_regulation_sections": [
+            "SECTION 1: GENERAL PROVISIONS",
+            "SECTION 2: DOCUMENTATION REQUIREMENTS (GENERAL)",
+            "SECTION 3: LOAN AGREEMENT (LA) STANDARDS"
+        ],
+        "compliance_score": 0,
+        "status": "FAIL",
+        "audit_log": [
+            {
+                "requirement": "Explicit reference to internal regulations (Section 2.3)",
+                "met": false,
+                "comment": "The agreement lacks the mandatory reference to 'Internal Regulations' as per Section 2.3. It only broadly cites Kazakhstan law, which is insufficient for internal compliance."
+            },
+            {
+                "requirement": "Loan amount not exceeding 10,000,000 KZT (Section 3.1)",
+                "met": false,
+                "comment": "Direct violation of Section 3.1. The agreement specifies 12,500,000 KZT without the required Credit Committee approval for exceeding the 10M mark."
+            },
+            {
+                "requirement": "Loan term limited to 60 months (Section 3.2)",
+                "met": false,
+                "comment": "Breach of Section 3.2 limits. The 84-month term specified is non-compliant for a standard consumer loan."
+            },
+            {
+                "requirement": "Fixed rate and mandatory AEIR disclosure (Section 3.3)",
+                "met": false,
+                "comment": "Critical compliance failure. Clause 2.2 allows for unilateral rate changes (forbidden) and the document fails to disclose the Annual Effective Interest Rate (AEIR)."
+            },
+            {
+                "requirement": "Prohibition of account fees and early repayment penalties (Section 3.4)",
+                "met": false,
+                "comment": "Two illegal fees identified in Clause 2.4: a monthly account maintenance fee (750 KZT) and a 3% early repayment commission. Both are strictly prohibited."
+            },
+            {
+                "requirement": "Penalties capped at 0.5% daily and 10% total (Section 3.5)",
+                "met": false,
+                "comment": "Non-compliant penalty terms in Clause 3.1: 0.8% daily penalty (limit 0.5%) and 15% cap (limit 10%). This exposes the bank to significant legal risk."
+            },
+            {
+                "requirement": "Dispute resolution in Almaty (Section 3.6)",
+                "met": false,
+                "comment": "Jurisdictional misalignment. Clause 4 sets the trial venue in Astana, violating the requirement for Almaty (Bank's location)."
+            }
+        ],
+        "security_check": "High Risk"
+    },
+    {
+        "document_type": "Credit Application",
+        "relevant_regulation_sections": [
+            "SECTION 4: LOAN APPLICATION REQUIREMENTS"
+        ],
+        "compliance_score": 30,
+        "status": "FAIL",
+        "audit_log": [
+            {
+                "requirement": "Mandatory identification and contact fields (Section 4.1)",
+                "met": true,
+                "comment": "Basic fields (Name, IIN, Phone, etc.) are present and formatted correctly."
+            },
+            {
+                "requirement": "Explicit consent to personal data processing (Section 4.2)",
+                "met": false,
+                "comment": "Fatal omission. No personal data processing consent clause is present, creating immediate GDPR/Local Law liability."
+            },
+            {
+                "requirement": "Acknowledgment of terms and tariffs (Section 4.3)",
+                "met": false,
+                "comment": "Procedural failure. The application lacks the mandatory mark/statement of acknowledgment regarding the bank's lending terms and tariffs."
+            }
+        ],
+        "security_check": "Medium Risk"
+    },
+    {
+        "document_type": "Promotion Terms",
+        "relevant_regulation_sections": [
+            "SECTION 5: ADVERTISING MATERIALS AND PROMOTIONS REQUIREMENTS"
+        ],
+        "compliance_score": 20,
+        "status": "FAIL",
+        "audit_log": [
+            {
+                "requirement": "Completeness of information including AEIR disclosure (Section 5.1)",
+                "met": false,
+                "comment": "Transparency violation. The promotion advertises a 15% rate but omits the mandatory AEIR disclosure, which is a regulatory requirement for all loan marketing."
+            },
+            {
+                "requirement": "Reliability and non-misleading terms (Section 5.2)",
+                "met": false,
+                "comment": "Market risk. The clause allowing the Bank to 'change terms at any time' is deemed misleading and creates potential reputational and legal risk."
+            },
+            {
+                "requirement": "Clearly defined validity period (Section 5.3)",
+                "met": false,
+                "comment": "Insufficient duration definition. The promotion provides only a start date, failing to establish a clear end date or 'valid while supplies last' equivalents."
+            }
+        ],
+        "security_check": "High Risk"
+    }
+]

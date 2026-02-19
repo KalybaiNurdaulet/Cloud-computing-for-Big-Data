@@ -1,0 +1,9 @@
+Application for Consumer Loan
+Date: 14.03.2024.
+
+Full Name: Ivanov I.I.
+IIN: 870101300123
+Phone: +77011234567
+Loan Amount: 12,500,000 KZT
+Loan Term: 84 months
+Loan Purpose: Personal needs.

@@ -1,0 +1,22 @@
+# Audit Plan: Legal Compliance of Halyk Bank Documents
+
+This plan outlines the steps to perform a meticulous legal audit of three submitted documents against the Halyk Bank Internal Regulations and consolidate the findings into a single JSON result file.
+
+## Proposed Changes
+
+### [Audit Logic]
+
+I will perform a clause-by-clause audit for each of the following files:
+1. [document_to_check_1_loan_agreement.txt](file:///Users/kalybaynurdaulet/Desktop/ccBig%20data/tsis2/document_to_check_1_loan_agreement.txt)
+2. [document_to_check_2_credit_application.txt](file:///Users/kalybaynurdaulet/Desktop/ccBig%20data/tsis2/document_to_check_2_credit_application.txt)
+3. [document_to_check_3_promo_terms.txt](file:///Users/kalybaynurdaulet/Desktop/ccBig%20data/tsis2/document_to_check_3_promo_terms.txt)
+
+#### [NEW] [check_res](file:///Users/kalybaynurdaulet/Desktop/ccBig%20data/tsis2/check_res)
+This file will contain a JSON array of audit objects, one for each document checked.
+
+## Verification Plan
+
+### Manual Verification
+- I will verify that the generated `check_res` file contains valid JSON.
+- I will double-check that each audit result correctly identifies the document type and maps to the relevant sections of [requirement.txt](file:///Users/kalybaynurdaulet/Desktop/ccBig%20data/tsis2/requirement.txt).
+- I will ensure that the comments reflect "Aliyah's" meticulous persona and cite specific discrepancies.

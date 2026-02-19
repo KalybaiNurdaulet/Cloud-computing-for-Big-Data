@@ -1,0 +1,39 @@
+# Legal Compliance Audit Walkthrough: Halyk Bank
+
+I have completed a meticulous legal audit of three core documents against the **Halyk Bank Internal Regulations (v2.0, 01.03.2024)**. The results have been consolidated into [check_results.json](file:///Users/kalybaynurdaulet/Desktop/ccBig%20data/tsis2/check_results.json).
+
+## Audit Summary
+
+All three documents failed the compliance check due to significant violations that introduce **High to Medium legal and financial risk** to the Bank.
+
+### 1. Loan Agreement No. 2024/03-KLD
+- **Status:** FAIL
+- **Risk Level:** **High Risk**
+- **Key Violations:**
+    - Loan amount (12.5M KZT) exceeds the 10M limit without committee approval.
+    - Term (84 months) exceeds the maximum 60 months limit.
+    - **Illegal Clause:** Provisions for unilateral interest rate changes.
+    - **Illegal Fees:** Account maintenance fees and early repayment commissions identified and penalized.
+    - **Penalty Rates:** Daily penalties (0.8%) and caps (15%) exceed internal regulation limits (0.5% and 10%).
+
+### 2. Credit Application
+- **Status:** FAIL
+- **Risk Level:** **Medium Risk**
+- **Key Violations:**
+    - **Critical Missing Safeguard:** No consent to personal data processing.
+    - Missing formal acknowledgment of bank terms and tariffs.
+
+### 3. Promotion Terms
+- **Status:** FAIL
+- **Risk Level:** **High Risk**
+- **Key Violations:**
+    - Lacks mandatory Annual Effective Interest Rate (AEIR) disclosure.
+    - Vague validity period and clauses allowing arbitrary terms change create significant regulatory risk.
+
+## Final Result File
+The detailed "clause-by-clause" logs are available in the generated JSON file:
+[check_results.json](file:///Users/kalybaynurdaulet/Desktop/ccBig%20data/tsis2/check_results.json)
+
+---
+> [!IMPORTANT]
+> To maintain legal integrity, these documents should be immediately revised to align with the **SECTION 3** and **SECTION 4** standards before any further use.

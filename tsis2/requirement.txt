@@ -1,0 +1,36 @@
+Halyk Bank Internal Regulations "On the Procedure for Lending to Individuals and Related Processes"
+Approval Date: 01.03.2024. Version 2.0.
+
+SECTION 1: GENERAL PROVISIONS
+1.1. Purpose: This Regulation establishes uniform rules and standards for all stages of the lending process to individuals at "Halyk Bank of Kazakhstan" JSC (hereinafter - the Bank).
+1.2. Scope: The Regulation is mandatory for all structural units of the Bank involved in the lending process.
+1.3. Principles: Lending is carried out on the principles of repayment, payment, urgency, security, and targeted use (if necessary).
+1.4. Transparency: All essential lending terms (amount, term, rate, fees, penalties) must be clearly and unambiguously stated in the relevant documents and brought to the client's attention before signing.
+
+SECTION 2: DOCUMENTATION REQUIREMENTS (GENERAL)
+2.1. Format: All legally significant documents (agreements, applications, notifications) must be in writing in the state and/or Russian languages, signed by authorized Bank representatives and the Client.
+2.2. Data Protection: Documents must not contain personal data of third parties without their consent, except as provided by the legislation of the Republic of Kazakhstan.
+2.3. References to Regulations: All loan agreements must contain an explicit reference to these Internal Regulations or their relevant sections.
+
+SECTION 3: LOAN AGREEMENT (LA) STANDARDS
+3.1. Loan Amount: The maximum amount of a consumer loan for a single individual cannot exceed 10,000,000 (ten million) KZT without additional approval from the Credit Committee.
+3.2. Loan Term: The loan term is set in months and cannot exceed 60 (sixty) months. For mortgage loans, a term of up to 240 months is allowed.
+3.3. Interest Rate: The Annual Effective Interest Rate (AEIR) must be specified in the LA. The interest rate for consumer loans is fixed for the entire lending period and is not subject to unilateral change by the Bank. For mortgage loans, a floating rate is permissible with a clearly described indexing mechanism.
+3.4. Fees: The Bank is **prohibited** from charging the following fees:
+    a) For reviewing a loan application.
+    b) For issuing a loan.
+    c) For maintaining a bank account associated with the loan.
+    d) For early repayment of the loan.
+    e) Any hidden fees not explicitly stated in the LA.
+3.5. Penalties: For overdue loan payments, a penalty interest of 0.5% of the overdue payment amount is established for each day of delay, but **not more than 10% of the principal debt**. Penalties cannot be accrued on penalties.
+3.6. Dispute Resolution: All disputes arising from this LA are subject to resolution in the courts at the Bank's location (Almaty), unless otherwise established by imperative norms of the legislation of the Republic of Kazakhstan.
+
+SECTION 4: LOAN APPLICATION REQUIREMENTS
+4.1. Mandatory Fields: The application must contain: Full Name, IIN (Individual Identification Number), contact details, requested loan amount and term, loan purpose (if applicable).
+4.2. Consent to Personal Data Processing: The application must include the Client's explicit consent to the Bank's processing of personal data.
+4.3. Acknowledgment of Terms: There must be a mark indicating the Client's acknowledgment of the Bank's lending terms and tariffs.
+
+SECTION 5: ADVERTISING MATERIALS AND PROMOTIONS REQUIREMENTS
+5.1. Completeness of Information: Advertising materials and promotion terms must contain complete and reliable information about the product, including the AEIR (or AEIR range), promotion validity period, and main restrictions.
+5.2. Reliability: Advertising that misleads consumers regarding the cost or terms of the loan is prohibited.
+5.3. Validity Period: Promotion terms must have a clearly defined validity period.
