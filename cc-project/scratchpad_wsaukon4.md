@@ -1,0 +1,22 @@
+# CFO Bot QA Verification Plan
+
+- [F] Open index.html in the browser (FAILED: Chrome installation not found)
+- [ ] Test Case 1: Zero Traffic (U=0, M=0)
+    - [ ] Type 0 in input-users
+    - [ ] Type 0 in input-messages
+    - [ ] Take screenshot (TC1_Zero_Traffic)
+    - [ ] Verify values: Compute, DB, LLM, Bandwidth, Total, Per-User
+    - [ ] Check for NaN/Infinity and console errors
+- [ ] Test Case 2: Standard Load (U=10000, M=50)
+    - [ ] Type 10000 in input-users
+    - [ ] Type 50 in input-messages
+    - [ ] Take screenshot (TC2_Standard_Load)
+    - [ ] Verify values: Compute=$0.20, DB=$1.50, LLM=$97.50, Bandwidth=$0.1145, Total=$99.31, Per-User=$0.0099
+    - [ ] Check for console errors
+- [ ] Test Case 3: High Load / Stress (U=100000, M=200)
+    - [ ] Type 100000 in input-users
+    - [ ] Type 200 in input-messages
+    - [ ] Take screenshot (TC3_High_Load)
+    - [ ] Verify values: Compute=$8.00, DB=$60.00, LLM=$3900.00, Bandwidth=$4.5776, Total=$3972.58, Per-User=$0.0397
+    - [ ] Check for console errors
+- [ ] Prepare final report
