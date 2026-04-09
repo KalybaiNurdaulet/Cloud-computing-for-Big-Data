@@ -6,6 +6,9 @@ By pasting a raw client inquiry or an inbound email, the AI extracts structured 
 
 ---
 
+## URL
+https://cloud-computing-for-big-data-nybrvehysdbdyajurplstd.streamlit.app
+
 ## 💼 Business Value for SMEs
 
 Many SME agencies and consulting firms suffer from **"Lead Fatigue"**. They receive dozens of unstructured inquiries via contact forms or inbound emails and spend hours manually identifying which leads have a real budget versus the "tire-kickers".
